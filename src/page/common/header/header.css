@@ -1,0 +1,36 @@
+/*
+* @Author: lx
+* @Date:   2018-03-27 20:50:18
+* @Last Modified by:   lx
+* @Last Modified time: 2018-03-27 22:23:53
+*/
+/*通用头部导航*/
+.header .logo{
+	position: absolute;
+	display: block;
+	left: 50px;
+	top: 34px;
+	font-size: 36px;
+	color: #c60023;
+	font-weight: bold;
+
+}
+.header .search-con{
+	padding: 40px 0 30px 250px;
+
+}
+.header .search-con .search-input{
+	width: 550px;
+	height: 40px;
+	line-height: 40px;
+	padding-left: 10px;
+	font-size: 15px;
+	border:2px solid #c60023;
+	outline: none;
+}
+.search-btn{
+	position: absolute;
+	/*使其脱离文档流，去除input和button直接的空行，或者把两个便签不进行分行格式化*/
+	height: 44px;
+	width: 80px;
+}

@@ -1,0 +1,19 @@
+/*
+* @Author: lx
+* @Date:   2018-03-25 17:24:27
+* @Last Modified by:   lx
+* @Last Modified time: 2018-03-25 18:31:23
+*/
+.nav-simple{
+	height: 60px;
+	line-height: 60px;
+	border-bottom: 1px solid #ddd;
+	background: #fff;
+
+}
+
+.nav-simple .logo{
+	font-size: 26px;
+	font-weight: bold;
+	color: #c60023;
+}

@@ -1,0 +1,33 @@
+/*
+* @Author: lx
+* @Date:   2018-03-25 19:30:50
+* @Last Modified by:   lx
+* @Last Modified time: 2018-03-27 00:19:38
+*/
+
+.nav{
+	background: #eee;
+	height: 30px;
+	line-hei ght: 30px;
+}
+/*用户部分*/
+.nav .user{
+	float: left;
+}
+
+.nav .user.login{
+	float: left;
+}
+
+.nav .user .link{
+	margin-right: 5px;
+}
+/*导航链接部分*/
+.nav .nav-list{
+	float: right;
+}
+
+.nav .nav-list .nav-item{
+	display: inline-block;
+	margin-left:5px;
+}
